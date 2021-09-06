@@ -10,7 +10,7 @@ int main(){
     struct point p1, p2;
     int xDiff, yDiff;
 
-    double distance;
+    double distance; 
 
     printf("1 x, y : ");
     scanf("%d %d", &p1.x, &p1.y);

@@ -3,7 +3,7 @@
 #include <string.h>
 
 struct student{
-    int number;
+    int number; 
     char name[10];
     double grade;
 };

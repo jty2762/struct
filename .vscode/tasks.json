@@ -5,7 +5,7 @@
     
     "echoCommand": true,
     "presentation": {
-        "reveal": "always"
+        "reveal": "always" 
     },
     "tasks": [
         {
